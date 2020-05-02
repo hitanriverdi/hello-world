@@ -2,5 +2,5 @@
 
 Hi Humans!
 
-I try to understand the GitHub 
+I am trying to understand the GitHub 
 
